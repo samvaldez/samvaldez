@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋, I'm Samantha</h1>
-<h3 align="center">A passionate software engineer from DR</h3>
+<h3 align="center">A passionate Software Engineer from DR</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
